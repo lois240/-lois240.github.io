@@ -1,3 +1,4 @@
+![logo](https://github.com/lois240/lois240.github.io/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm LOIS</h1>
 <h3 align="center">UI/UX Designer</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif">
